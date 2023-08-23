@@ -8,7 +8,7 @@ AspNet Core ile Api işlemlerini sıfırdan gerçekleştirdiğim bu projede Rest
 
 Eğitime dilerseniz [bu linkten](https://www.udemy.com/share/108lA23@GiXLllDN1Gg-v3GUq1XK0RdiVkVNszJ96cgkwvW9Fx9AvLihZpANBg0EDnFTuChE/) ulaşabilirsiniz.
 
-
+Proje görsellerini bu yazının sonunda inceleyebilirsiniz.
 
 
 ### Giriş ve Katmanların Oluşturulması
@@ -316,5 +316,24 @@ Rezervasyon iptali, rezervasyon bekletme ve rezervasyonların güncellenmesi iş
 ### Finalde proje canlıya alma aşamasıdır. Proje henüz canlıya alınmamıştır.
 
 
-
-![Sertifika Resmi](https://resmim.net/cdn/2023/08/22/SVxlXK.jpg)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/22/SVxlXK.jpg)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2yS3.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV20gq.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV21x7.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV25UH.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2sEc.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2iRR.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV249j.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2tNn.png)
+![Rezervasyon Sayfası](https://resmim.net/cdn/2023/08/23/SV2xoy.png)
+![İletişim Sayfası](https://resmim.net/cdn/2023/08/23/SV2OAD.png)
+![Login](https://resmim.net/cdn/2023/08/23/SV2VSI.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2p8G.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2cZC.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2GAi.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV29oF.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2nTk.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2JR2.png)
+![Ana Sayfa](https://resmim.net/cdn/2023/08/23/SV2IH8.png)
+![Api](https://resmim.net/cdn/2023/08/23/SV2hU6.png)
+![Api](https://resmim.net/cdn/2023/08/23/SV2uOZ.png)
